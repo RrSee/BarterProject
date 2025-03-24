@@ -1,0 +1,6 @@
+@BarterProject_HostAddress = http://localhost:5157
+
+GET {{BarterProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

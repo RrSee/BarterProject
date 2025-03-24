@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject", "BarterProject\BarterProject.csproj", "{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Domain", "BarterProject.Domain\BarterProject.Domain.csproj", "{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Application", "BarterProject.Application\BarterProject.Application.csproj", "{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Repository", "BarterProject.Repository\BarterProject.Repository.csproj", "{BDFE194E-6835-4153-B742-98377BDD29E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Common", "BarterProject.Common\BarterProject.Common.csproj", "{F908145F-61C1-4663-BF70-64DB5E890CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.DAL.SqlServer", "BarterProject.DAL.SqlServer\BarterProject.DAL.SqlServer.csproj", "{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDFE194E-6835-4153-B742-98377BDD29E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDFE194E-6835-4153-B742-98377BDD29E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDFE194E-6835-4153-B742-98377BDD29E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDFE194E-6835-4153-B742-98377BDD29E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F908145F-61C1-4663-BF70-64DB5E890CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F908145F-61C1-4663-BF70-64DB5E890CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F908145F-61C1-4663-BF70-64DB5E890CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F908145F-61C1-4663-BF70-64DB5E890CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C55C795-082C-4C69-B077-C393367472CA}
+	EndGlobalSection
+EndGlobal
