@@ -10,5 +10,5 @@ public class CreateBarterRequestRequest : IRequest<Result<CreateBarterRequestRes
     public int SenderUserId { get; set; }
     public int ReceiverUserId { get; set; }
     public int SenderItemId { get; set; }
-    public int RecevierItemId { get; set; }
+    public int ReceiverItemId { get; set; }
 }

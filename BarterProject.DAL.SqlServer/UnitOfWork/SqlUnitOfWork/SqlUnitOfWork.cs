@@ -12,5 +12,7 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
 
     public SqlBarterRequestRepository _barterRequestRepository;
 
-    public IBarterRequestRepository BarterRequestRepository => BarterRequestRepository ?? new SqlBarterRequestRepository(_context);
+    public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ??= new SqlBarterRequestRepository(_context);
+
+
 }

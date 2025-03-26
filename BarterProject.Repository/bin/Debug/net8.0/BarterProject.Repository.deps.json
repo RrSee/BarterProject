@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BarterProject.Repository/1.0.0": {
+        "dependencies": {
+          "BarterProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BarterProject.Repository.dll": {}
+        }
+      },
+      "BarterProject.Domain/1.0.0": {
+        "runtime": {
+          "BarterProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarterProject.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarterProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

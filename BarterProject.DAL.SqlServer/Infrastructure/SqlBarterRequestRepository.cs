@@ -8,7 +8,7 @@ public class SqlBarterRequestRepository(AppDbContext context) : IBarterRequestRe
 {
     private readonly AppDbContext _context = context;
 
-    public async Task AddAyync(BarterRequest barterRequest)
+    public async Task AddAsync(BarterRequest barterRequest)
     {
         await _context.BarterRequests.AddAsync(barterRequest);
         await _context.SaveChangesAsync();

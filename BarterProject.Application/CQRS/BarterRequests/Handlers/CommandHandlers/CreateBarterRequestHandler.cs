@@ -16,7 +16,7 @@ public class CreateBarterRequestHandler(IUnitOfWork unitOfWork, IMapper mapper) 
     {
         var newBarterRequest = _mapper.Map<BarterRequest>(request);
 
-        await _unitOfWork.BarterRequestRepository.AddAyync(newBarterRequest);
+        await _unitOfWork.BarterRequestRepository.AddAsync(newBarterRequest);
         var response = _mapper.Map<CreateBarterRequestResponse>(newBarterRequest);
 
         return new Result<CreateBarterRequestResponse>

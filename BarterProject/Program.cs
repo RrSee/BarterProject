@@ -1,4 +1,5 @@
-using BarterProject.DAL.SqlServer;
+﻿using BarterProject.DAL.SqlServer;
+using BarterProject.Application;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +14,7 @@ builder.Services.AddSwaggerGen();
 var connectionString = builder.Configuration.GetConnectionString("MyConn");
 
 builder.Services.AddSqlServerServices(connectionString!);
-
+builder.Services.AddApplicationServices();
 
 var app = builder.Build();
 
