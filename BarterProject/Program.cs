@@ -1,5 +1,9 @@
 ﻿using BarterProject.DAL.SqlServer;
 using BarterProject.Application;
+using BarterProject.Repository.Common;
+using BarterProject.Repository.Repositories;
+using MediatR;
+using System.Reflection;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -15,6 +19,8 @@ var connectionString = builder.Configuration.GetConnectionString("MyConn");
 
 builder.Services.AddSqlServerServices(connectionString!);
 builder.Services.AddApplicationServices();
+
+
 
 var app = builder.Build();
 

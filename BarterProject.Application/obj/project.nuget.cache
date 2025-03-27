@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "6yhs6SJ+oH4=",
+  "dgSpecHash": "Cp/rDZhFN78=",
   "success": true,
-  "projectFilePath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj",
+  "projectFilePath": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nicec\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\nicec\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+    "C:\\Users\\eliel\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\eliel\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

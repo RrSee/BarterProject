@@ -1,0 +1,129 @@
+[
+  {
+    "ContainingType": "BarterProject.Controllers.BarterRequestController",
+    "Method": "Create",
+    "RelativePath": "api/BarterRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BarterProject.Application.CQRS.BarterRequests.Commands.Requests.CreateBarterRequestRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.BarterRequestController",
+    "Method": "Delete",
+    "RelativePath": "api/BarterRequest/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "Create",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BarterProject.Application.CQRS.Notifications.Commands.Requests.CreateNotificationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "GetAll",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "Delete",
+    "RelativePath": "api/Notification/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "GetById",
+    "RelativePath": "api/Notification/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "MarkAsRead",
+    "RelativePath": "api/Notification/markAsRead/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BarterProject.Controllers.NotificationController",
+    "Method": "GetUnread",
+    "RelativePath": "api/Notification/unread/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

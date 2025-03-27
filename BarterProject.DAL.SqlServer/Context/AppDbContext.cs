@@ -10,4 +10,5 @@ public class AppDbContext : DbContext
 
     }
     public DbSet<BarterRequest> BarterRequests { get; set; }
+    public DbSet<Notification> Notifications { get; set; }
 }

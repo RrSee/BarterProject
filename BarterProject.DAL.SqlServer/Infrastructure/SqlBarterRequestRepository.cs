@@ -30,4 +30,6 @@ public class SqlBarterRequestRepository(AppDbContext context) : IBarterRequestRe
         await _context.SaveChangesAsync();
         return true;
     }
+
+ 
 }

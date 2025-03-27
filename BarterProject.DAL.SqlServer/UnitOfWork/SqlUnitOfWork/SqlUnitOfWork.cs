@@ -14,5 +14,10 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
 
     public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ??= new SqlBarterRequestRepository(_context);
 
+    public INotificationRepository NotificationRepository => throw new NotImplementedException();
 
+    public async Task<int> CommitAsync()
+    {
+        return await _context.SaveChangesAsync();
+    }
 }
