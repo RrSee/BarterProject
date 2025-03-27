@@ -11,10 +11,11 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     private readonly AppDbContext _context = context;
 
     public SqlBarterRequestRepository _barterRequestRepository;
+    public SqlNotificationRepository _notificationRepository;
 
-    public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ??= new SqlBarterRequestRepository(_context);
+    public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ?? new SqlBarterRequestRepository(_context);
 
-    public INotificationRepository NotificationRepository => throw new NotImplementedException();
+    public INotificationRepository NotificationRepository => _notificationRepository ?? new SqlNotificationRepository(_context);
 
     public async Task<int> CommitAsync()
     {

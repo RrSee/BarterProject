@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BarterProject.DAL.SqlServer.Infrastructure;
 
-class SqlNotificationRepository(AppDbContext context) : INotificationRepository
+public class SqlNotificationRepository(AppDbContext context) : INotificationRepository
 {
     private readonly AppDbContext _context = context;
    

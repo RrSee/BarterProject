@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "Gq9M1y+ytAEs7A1IRO0WQRhwGhg5fIcJ8bBHzYJCPm4=",
+  "Hash": "5AiG1QxnyURfTu+47NuTTV+Y4IUhDSOTix5BernnsLQ=",
   "Source": "BarterProject",
   "BasePath": "_content/BarterProject",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

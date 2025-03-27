@@ -16,9 +16,9 @@ public class BarterRequestController(ISender sender) : ControllerBase
         return result.IsSuccess ? Ok(result) : BadRequest(result);
     }
     [HttpDelete("{id}")]
-    public async Task<IActionResult> Delete(int id)
+    public async Task<IActionResult> Delete(int id, int deletedBy)
     {
-        var result = await _sender.Send(new DeleteBarterRequestRequest { Id = id });
+        var result = await _sender.Send(new DeleteBarterRequestRequest { Id = id, DeletedBy = deletedBy });
         return result.IsSuccess ? Ok(result) : BadRequest(result);
     }
 }

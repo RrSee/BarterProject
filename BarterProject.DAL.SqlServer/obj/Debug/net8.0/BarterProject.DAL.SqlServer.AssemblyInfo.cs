@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarterProject.DAL.SqlServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f609821f6d3473c86550709f7b292dbf709a499a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0866843cabb8ef7046083623b8f5e471b400aca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarterProject.DAL.SqlServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarterProject.DAL.SqlServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
