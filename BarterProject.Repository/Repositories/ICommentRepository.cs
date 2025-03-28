@@ -10,5 +10,6 @@ public interface ICommentRepository
     IQueryable<Comment> GetAll();
     Task<Comment> GetByIdAsync(int id);
     Task<IEnumerable<Comment>> GetAllInitialDataAsync();
+    Task<IEnumerable<Comment>> GetByItemIdInitialDataAsync(int itemId);
     IQueryable<Comment> GetByItemId(int itemId);
 }

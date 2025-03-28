@@ -58,6 +58,12 @@ public class SqlCommentRepository : ICommentRepository
         return _context.Comments.Where(c => c.ItemId == itemId && !c.IsDeleted);
     }
 
+    public async Task<IEnumerable<Comment>> GetByItemIdInitialDataAsync(int itemId)
+    {
+        return await _context.Comments
+            .Where(c => !c.IsDeleted && c.ItemId == itemId).ToListAsync();
+    }
+
     public void Update(Comment comment)
     {
         _context.Comments.Update(comment);

@@ -6,5 +6,6 @@ public interface IUnitOfWork
 {
     public IBarterRequestRepository BarterRequestRepository { get; }
     public INotificationRepository NotificationRepository { get; }
+    public ICommentRepository CommentRepository { get; }
     Task<int> CommitAsync();
 }

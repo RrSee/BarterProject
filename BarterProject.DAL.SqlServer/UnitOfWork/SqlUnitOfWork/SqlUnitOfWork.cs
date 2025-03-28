@@ -12,10 +12,13 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
 
     public SqlBarterRequestRepository _barterRequestRepository;
     public SqlNotificationRepository _notificationRepository;
+    public SqlCommentRepository _commentRepository;
 
     public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ?? new SqlBarterRequestRepository(_context);
 
     public INotificationRepository NotificationRepository => _notificationRepository ?? new SqlNotificationRepository(_context);
+
+    public ICommentRepository CommentRepository => _commentRepository ?? new SqlCommentRepository(_context);
 
     public async Task<int> CommitAsync()
     {
