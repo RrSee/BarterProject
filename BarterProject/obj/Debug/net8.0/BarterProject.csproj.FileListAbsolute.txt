@@ -1,0 +1,345 @@
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\appsettings.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.exe
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.runtimeconfig.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Application.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.sourcelink.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.BarterProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\scopedcss\bundle\BarterProject.styles.css
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterPr.D32C2B3C.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\refint\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.genruntimeconfig.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\appsettings.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.staticwebassets.endpoints.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.exe
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.deps.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.runtimeconfig.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Application.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.csproj.AssemblyReference.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfoInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.sourcelink.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\scopedcss\bundle\BarterProject.styles.css
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.BarterProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.BarterProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BarterProject.props
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BarterProject.props
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BarterProject.props
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterPr.D32C2B3C.Up2Date
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\refint\BarterProject.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\BarterProject.genruntimeconfig.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\appsettings.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.exe
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.runtimeconfig.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Application.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.BarterProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\scopedcss\bundle\BarterProject.styles.css
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterPr.D32C2B3C.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\refint\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.genruntimeconfig.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\appsettings.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.exe
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.runtimeconfig.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Application.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.BarterProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.build.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BarterProject.props
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\scopedcss\bundle\BarterProject.styles.css
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterPr.D32C2B3C.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\refint\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\BarterProject.genruntimeconfig.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll

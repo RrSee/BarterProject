@@ -1,0 +1,656 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\queryhandlers\\getbyemailuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\queryhandlers\\getbyemailuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\queryhandlers\\getbyiduserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\queryhandlers\\getbyiduserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\refreshtokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\loginuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\registeruserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\deleteuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\requests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\requests\\deleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|solutionrelative:barterproject.repository\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\requests\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\requests\\refreshtokenrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\responses\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\responses\\loginuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\handlers\\commandhandlers\\updateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\responses\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\responses\\updateuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\responses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\responses\\deleteuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\requests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\requests\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\infrastructure\\sqlbarterrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\infrastructure\\sqlbarterrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.repository\\repositories\\ibarterrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|solutionrelative:barterproject.repository\\repositories\\ibarterrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\infrastructure\\sqlcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\infrastructure\\sqlcommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\comments\\handlers\\commandhandlers\\createcommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\comments\\handlers\\commandhandlers\\createcommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\queries\\requests\\getbyiduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\queries\\requests\\getbyiduserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\queries\\requests\\getbyemailuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\queries\\requests\\getbyemailuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\queries\\responses\\getbyiduserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\queries\\responses\\getbyiduserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\queries\\responses\\getbyemailuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\queries\\responses\\getbyemailuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\users\\commads\\requests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\users\\commads\\requests\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\comments\\handlers\\commandhandlers\\deletecommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\comments\\handlers\\commandhandlers\\deletecommenthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\notifications\\commands\\requests\\marknotificationasreadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\notifications\\commands\\requests\\marknotificationasreadcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\items\\handlers\\commandshandlers\\deleteitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\items\\handlers\\commandshandlers\\deleteitemcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.application\\cqrs\\items\\commands\\responses\\deleteitemcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}|BarterProject.Application\\BarterProject.Application.csproj|solutionrelative:barterproject.application\\cqrs\\items\\commands\\responses\\deleteitemcommandresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|solutionrelative:barterproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject\\infrastructure\\httpusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|solutionrelative:barterproject\\infrastructure\\httpusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject\\security\\authenticationdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|solutionrelative:barterproject\\security\\authenticationdependency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject\\security\\addswaggergenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}|BarterProject\\BarterProject.csproj|solutionrelative:barterproject\\security\\addswaggergenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\infrastructure\\sqlrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\infrastructure\\sqlrefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F908145F-61C1-4663-BF70-64DB5E890CA3}|BarterProject.Common\\BarterProject.Common.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.common\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F908145F-61C1-4663-BF70-64DB5E890CA3}|BarterProject.Common\\BarterProject.Common.csproj|solutionrelative:barterproject.common\\security\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}|BarterProject.Domain\\BarterProject.Domain.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.domain\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}|BarterProject.Domain\\BarterProject.Domain.csproj|solutionrelative:barterproject.domain\\entites\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.dal.sqlserver\\infrastructure\\sqlnotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}|BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj|solutionrelative:barterproject.dal.sqlserver\\infrastructure\\sqlnotificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|c:\\users\\nicec\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\barterproject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\barterproject.repository\\repositories\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDFE194E-6835-4153-B742-98377BDD29E3}|BarterProject.Repository\\BarterProject.Repository.csproj|solutionrelative:barterproject.repository\\repositories\\irefreshtokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\LoginUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\LoginUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\LoginUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\LoginUserHandler.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAYwDoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:03:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RefreshTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RefreshTokenHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RefreshTokenHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RefreshTokenHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RefreshTokenHandler.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwCYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:02:50.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetByEmailUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByEmailUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByEmailUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByEmailUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByEmailUserHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:08:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetByIdUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByIdUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByIdUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByIdUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\QueryHandlers\\GetByIdUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:08:33.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "BarterProject.Application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAkwDAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:09:09.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RegisterUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RegisterUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RegisterUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\RegisterUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:03:08.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\DeleteUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\DeleteUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\DeleteUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\DeleteUserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:10:35.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\DeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\DeleteUserRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\DeleteUserRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\DeleteUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:10:29.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SqlUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:07:17.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RefreshTokenRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\RefreshTokenRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\RefreshTokenRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\RefreshTokenRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\RefreshTokenRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T22:01:43.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.Repository\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "BarterProject.Repository\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:13:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\LoginUserResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\LoginUserResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\LoginUserResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\LoginUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:46:19.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DeleteUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\DeleteUserResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\DeleteUserResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\DeleteUserResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\DeleteUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:36:33.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\UpdateUserResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\UpdateUserResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\UpdateUserResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Responses\\UpdateUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:16:38.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SqlBarterRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlBarterRequestRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlBarterRequestRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlBarterRequestRepository.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlBarterRequestRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAYwBQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:12:49.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateUserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\UpdateUserHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\UpdateUserHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\UpdateUserHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Handlers\\CommandHandlers\\UpdateUserHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:46:46.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\UpdateUserRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:18:02.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBarterRequestRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IBarterRequestRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.Repository\\Repositories\\IBarterRequestRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IBarterRequestRepository.cs",
+              "RelativeToolTip": "BarterProject.Repository\\Repositories\\IBarterRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:15:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SqlCommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlCommentRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlCommentRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlCommentRepository.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlCommentRepository.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:12:39.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateCommentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\CreateCommentHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\CreateCommentHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\CreateCommentHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\CreateCommentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T20:04:12.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetByEmailUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByEmailUserRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByEmailUserRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByEmailUserRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByEmailUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:50:38.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetByIdUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByIdUserRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByIdUserRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByIdUserRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Queries\\Requests\\GetByIdUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:50:19.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GetByEmailUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByEmailUserResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByEmailUserResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByEmailUserResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByEmailUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:49:48.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetByIdUserResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByIdUserResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByIdUserResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByIdUserResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Queries\\Responses\\GetByIdUserResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:49:10.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\LoginUserRequest.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Users\\Commads\\Requests\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:10:08.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteCommentHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\DeleteCommentHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\DeleteCommentHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\DeleteCommentHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Comments\\Handlers\\CommandHandlers\\DeleteCommentHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:34:27.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MarkNotificationAsReadCommand.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Notifications\\Commands\\Requests\\MarkNotificationAsReadCommand.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Notifications\\Commands\\Requests\\MarkNotificationAsReadCommand.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Notifications\\Commands\\Requests\\MarkNotificationAsReadCommand.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Notifications\\Commands\\Requests\\MarkNotificationAsReadCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:34:16.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DeleteItemCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Items\\Handlers\\CommandsHandlers\\DeleteItemCommandHandler.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Items\\Handlers\\CommandsHandlers\\DeleteItemCommandHandler.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Items\\Handlers\\CommandsHandlers\\DeleteItemCommandHandler.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Items\\Handlers\\CommandsHandlers\\DeleteItemCommandHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:33:13.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteItemCommandResponse.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Items\\Commands\\Responses\\DeleteItemCommandResponse.cs",
+              "RelativeDocumentMoniker": "BarterProject.Application\\CQRS\\Items\\Commands\\Responses\\DeleteItemCommandResponse.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\CQRS\\Items\\Commands\\Responses\\DeleteItemCommandResponse.cs",
+              "RelativeToolTip": "BarterProject.Application\\CQRS\\Items\\Commands\\Responses\\DeleteItemCommandResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T19:32:41.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HttpUserContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Infrastructure\\HttpUserContext.cs",
+              "RelativeDocumentMoniker": "BarterProject\\Infrastructure\\HttpUserContext.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Infrastructure\\HttpUserContext.cs",
+              "RelativeToolTip": "BarterProject\\Infrastructure\\HttpUserContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:44:24.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Program.cs",
+              "RelativeDocumentMoniker": "BarterProject\\Program.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Program.cs",
+              "RelativeToolTip": "BarterProject\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:12:10.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuthenticationDependency.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Security\\AuthenticationDependency.cs",
+              "RelativeDocumentMoniker": "BarterProject\\Security\\AuthenticationDependency.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Security\\AuthenticationDependency.cs",
+              "RelativeToolTip": "BarterProject\\Security\\AuthenticationDependency.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:59:03.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddSwaggerGenService.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Security\\AddSwaggerGenService.cs",
+              "RelativeDocumentMoniker": "BarterProject\\Security\\AddSwaggerGenService.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\Security\\AddSwaggerGenService.cs",
+              "RelativeToolTip": "BarterProject\\Security\\AddSwaggerGenService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:57:15.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Common\\Security\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "BarterProject.Common\\Security\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Common\\Security\\PasswordHasher.cs",
+              "RelativeToolTip": "BarterProject.Common\\Security\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:29:37.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:01:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SqlNotificationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlNotificationRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlNotificationRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlNotificationRepository.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlNotificationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:53:47.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SqlRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\Infrastructure\\SqlRefreshTokenRepository.cs",
+              "RelativeToolTip": "BarterProject.DAL.SqlServer\\Infrastructure\\SqlRefreshTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:50:11.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IRefreshTokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IRefreshTokenRepository.cs",
+              "RelativeDocumentMoniker": "BarterProject.Repository\\Repositories\\IRefreshTokenRepository.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Repository\\Repositories\\IRefreshTokenRepository.cs",
+              "RelativeToolTip": "BarterProject.Repository\\Repositories\\IRefreshTokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:48:27.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Domain\\Entites\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BarterProject.Domain\\Entites\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\nicec\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Domain\\Entites\\RefreshToken.cs",
+              "RelativeToolTip": "BarterProject.Domain\\Entites\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T13:48:09.399Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

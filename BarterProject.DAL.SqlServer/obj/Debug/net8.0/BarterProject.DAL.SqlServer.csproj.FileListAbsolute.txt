@@ -1,0 +1,78 @@
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.sourcelink.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterPr.2D9F621B.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\refint\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\ref\BarterProject.DAL.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.deps.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.sourcelink.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterPr.2D9F621B.Up2Date
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\refint\BarterProject.DAL.SqlServer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.DAL.SqlServer\obj\Debug\net8.0\ref\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterPr.2D9F621B.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\refint\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\ref\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.AssemblyReference.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterPr.2D9F621B.Up2Date
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\refint\BarterProject.DAL.SqlServer.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\BarterProject.DAL.SqlServer.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.DAL.SqlServer\obj\Debug\net8.0\ref\BarterProject.DAL.SqlServer.dll

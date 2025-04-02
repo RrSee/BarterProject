@@ -1,0 +1,46 @@
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.sourcelink.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\refint\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject.Domain\obj\Debug\net8.0\ref\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.deps.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfoInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.sourcelink.json
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\refint\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject.Domain\obj\Debug\net8.0\ref\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\refint\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\Lessons\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\ref\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.deps.json
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfoInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.AssemblyInfo.cs
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\refint\BarterProject.Domain.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Domain\obj\Debug\net8.0\ref\BarterProject.Domain.dll
