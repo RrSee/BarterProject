@@ -3,5 +3,5 @@
 public class UpdateNotificationResponse
 {
     public bool IsSuccess { get; set; }
-    public string Message { get; set; }
+    public List<string> ErrorMessages { get; set; } = new List<string>();
 }

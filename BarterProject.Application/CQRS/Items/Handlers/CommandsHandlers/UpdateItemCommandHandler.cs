@@ -1,36 +1,43 @@
-﻿using AutoMapper;
-using BarterProject.Application.CQRS.Items.Commands.Requests;
-using BarterProject.Application.CQRS.Items.Commands.Responses;
-using BarterProject.Common.GlobalResponses.Generics;
-using BarterProject.Domain.Entites;
+﻿using BarterProject.Application.CQRS.Items.Commands.Requests;
+using BarterProject.Common.GlobalResponses;
 using BarterProject.Repository.Common;
+using FluentValidation;
 using MediatR;
 
 namespace BarterProject.Application.CQRS.Items.Handlers.CommandsHandlers;
-    public class UpdateItemCommandHandler : IRequestHandler<UpdateItemCommandRequest, Result<UpdateItemCommandResponse>>
+public class UpdateItemCommandHandler : IRequestHandler<UpdateItemCommandRequest, Result>
+{
+    private readonly IUnitOfWork _unitOfWork;
+    private readonly IValidator<UpdateItemCommandRequest> _validator;
+
+    public UpdateItemCommandHandler(IUnitOfWork unitOfWork, IValidator<UpdateItemCommandRequest> validator)
     {
-        private readonly IUnitOfWork _unitOfWork;
-        private readonly IMapper _mapper;
-
-        public UpdateItemCommandHandler(IUnitOfWork unitOfWork, IMapper mapper)
-        {
-            _unitOfWork = unitOfWork;
-            _mapper = mapper;
-        }
-
-        public async Task<Result<UpdateItemCommandResponse>> Handle(UpdateItemCommandRequest request, CancellationToken cancellationToken)
-        {
-            var item = _mapper.Map<Item>(request);
-            var isSuccess = await _unitOfWork.ItemRepository.UpdateAsync(item);
-
-            if (!isSuccess)
-            {
-                return new Result<UpdateItemCommandResponse>(new List<string> { "Item not found or update failed" });
-            }
-
-            var updatedItem = await _unitOfWork.ItemRepository.GetByIdAsync(request.Id);
-            var response = _mapper.Map<UpdateItemCommandResponse>(updatedItem);
-
-            return new Result<UpdateItemCommandResponse> { Data = response };
-        }
+        _unitOfWork = unitOfWork;
+        _validator = validator;
     }
+
+    public async Task<Result> Handle(UpdateItemCommandRequest request, CancellationToken cancellationToken)
+    {
+        var validationResult = await _validator.ValidateAsync(request, cancellationToken);
+        if (!validationResult.IsValid)
+        {
+            return new Result(validationResult.Errors.Select(e => e.ErrorMessage).ToList());
+        }
+        var item = await _unitOfWork.ItemRepository.GetByIdAsync(request.Id);
+        if (item == null)
+        {
+            return new Result(new List<string> { "Item not found." });
+        }
+
+        item.Name = request.Name;
+        item.Description = request.Description;
+        item.ImagePath = request.ImagePath ?? item.ImagePath;
+        item.UpdatedBy = request.UpdatedBy;
+        item.UpdatedDate = DateTime.Now;
+
+        await _unitOfWork.ItemRepository.UpdateAsync(item);
+        await _unitOfWork.CommitAsync();
+
+        return new Result();
+    }
+}

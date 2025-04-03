@@ -16,7 +16,10 @@
       },
       "BarterProject.Domain/1.0.0": {
         "runtime": {
-          "BarterProject.Domain.dll": {}
+          "BarterProject.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

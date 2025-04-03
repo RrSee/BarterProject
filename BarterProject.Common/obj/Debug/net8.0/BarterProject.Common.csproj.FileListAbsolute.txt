@@ -44,3 +44,15 @@ C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd76
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Common\obj\Debug\net8.0\refint\BarterProject.Common.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.pdb
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Common\obj\Debug\net8.0\ref\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\bin\Debug\net8.0\BarterProject.Common.deps.json
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.AssemblyInfoInputs.cache
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.AssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.sourcelink.json
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\refint\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Common\obj\Debug\net8.0\ref\BarterProject.Common.dll

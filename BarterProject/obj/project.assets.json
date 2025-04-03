@@ -62,6 +62,36 @@
           }
         }
       },
+      "FluentValidation/11.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "11.5.1",
+          "Microsoft.Extensions.Dependencyinjection.Abstractions": "2.1.0"
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "MediatR/11.0.0": {
         "type": "package",
         "dependencies": {
@@ -153,12 +183,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtimeTargets": {
@@ -586,12 +616,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -599,12 +629,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -649,12 +679,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -668,12 +698,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         }
       },
@@ -681,12 +711,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".xml;.pdb"
+            "related": ".pdb;.xml"
           }
         },
         "frameworkReferences": [
@@ -1077,6 +1107,8 @@
           "AutoMapper": "14.0.0",
           "BarterProject.Common": "1.0.0",
           "BarterProject.Repository": "1.0.0",
+          "FluentValidation": "11.5.1",
+          "FluentValidation.DependencyInjectionExtensions": "11.5.1",
           "MediatR": "11.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "11.1.0",
           "Microsoft.Extensions.Configuration.Abstractions": "8.0.0",
@@ -1194,6 +1226,46 @@
         "azureicon.png",
         "lib/netstandard2.0/Azure.Identity.dll",
         "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "FluentValidation/11.5.1": {
+      "sha512": "0h1Q5lNOLLyYTWMJmyNoMqhY4CBRvvUWvJP1R4F2CnmmzuWwvB0A8aVmw5+lOuwYnwUwCRrdeMLbc81F38ahNQ==",
+      "type": "package",
+      "path": "fluentvalidation/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.11.5.1.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/net6.0/FluentValidation.dll",
+        "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
+    "FluentValidation.DependencyInjectionExtensions/11.5.1": {
+      "sha512": "iWM0LS1MDYX06pcjMEQKqHirl2zkjHlNV23mEJSoR1IZI7KQmTa0RcTtGEJpj5+iHvBCfrzP2mYKM4FtRKVb+A==",
+      "type": "package",
+      "path": "fluentvalidation.dependencyinjectionextensions/11.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "fluent-validation-icon.png",
+        "fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+        "fluentvalidation.dependencyinjectionextensions.nuspec",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.0/FluentValidation.DependencyInjectionExtensions.xml",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll",
+        "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.xml"
       ]
     },
     "MediatR/11.0.0": {
@@ -3019,25 +3091,32 @@
     "net8.0": [
       "BarterProject.Application >= 1.0.0",
       "BarterProject.DAL.SqlServer >= 1.0.0",
+      "FluentValidation >= 11.5.1",
+      "FluentValidation.DependencyInjectionExtensions >= 11.5.1",
       "MediatR >= 11.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\nicec\\.nuget\\packages\\": {}
+    "C:\\Users\\eliel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\BarterProject.csproj",
+      "projectUniqueName": "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject\\BarterProject.csproj",
       "projectName": "BarterProject",
-      "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\BarterProject.csproj",
-      "packagesPath": "C:\\Users\\nicec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject\\obj\\",
+      "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject\\BarterProject.csproj",
+      "packagesPath": "C:\\Users\\eliel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\nicec\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\eliel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3045,18 +3124,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\BarterProject.Application.csproj": {
-              "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.Application\\BarterProject.Application.csproj"
+            "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject.Application\\BarterProject.Application.csproj": {
+              "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject.Application\\BarterProject.Application.csproj"
             },
-            "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj": {
-              "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj"
+            "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj": {
+              "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProjectt\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj"
             }
           }
         }
@@ -3070,12 +3148,21 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "FluentValidation": {
+            "target": "Package",
+            "version": "[11.5.1, )"
+          },
+          "FluentValidation.DependencyInjectionExtensions": {
+            "target": "Package",
+            "version": "[11.5.1, )"
+          },
           "MediatR": {
             "target": "Package",
             "version": "[11.0.0, )"
@@ -3108,7 +3195,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

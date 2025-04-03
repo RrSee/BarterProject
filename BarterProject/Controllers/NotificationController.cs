@@ -1,7 +1,6 @@
 ﻿using BarterProject.Application.CQRS.Notifications.Commands.Requests;
 using BarterProject.Application.CQRS.Notifications.Queries.Requests;
 using MediatR;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BarterProject.Controllers
@@ -59,12 +58,10 @@ namespace BarterProject.Controllers
 
             if (result.IsSuccess)
             {
-                return Ok(result); 
+                return Ok(result);
             }
 
-            return BadRequest(result); 
+            return BadRequest(result);
         }
     }
-
 }
-

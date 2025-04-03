@@ -76,3 +76,23 @@ C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd76
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Application\obj\Debug\net8.0\refint\BarterProject.Application.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.pdb
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject-b1e60a3ff306a1cd7611d82157fd93a06648885d\BarterProject.Application\obj\Debug\net8.0\ref\BarterProject.Application.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Application.deps.json
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Application.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Common.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Domain.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Repository.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Common.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Repository.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\bin\Debug\net8.0\BarterProject.Domain.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.csproj.AssemblyReference.cache
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.AssemblyInfoInputs.cache
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.AssemblyInfo.cs
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.sourcelink.json
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterPr.73BEABC1.Up2Date
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\refint\BarterProject.Application.dll
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\BarterProject.Application.pdb
+C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject.Application\obj\Debug\net8.0\ref\BarterProject.Application.dll

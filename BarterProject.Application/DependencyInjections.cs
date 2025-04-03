@@ -1,6 +1,8 @@
 ﻿using System.Reflection;
 using AutoMapper;
 using BarterProject.Application.AutoMapper;
+using BarterProject.Application.PipelineBehaviours;
+using FluentValidation;
 using MediatR;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -18,6 +20,12 @@ public static class DependencyInjections
         services.AddSingleton(mapper);
 
         services.AddMediatR(Assembly.GetExecutingAssembly());
+        
+        services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
+
+        
+        services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationPipelineBehaviour<,>));
+
 
         return services;
     }
