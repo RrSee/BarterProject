@@ -435,3 +435,5 @@ C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\refint
 C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\BarterProject.pdb
 C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\BarterProject.genruntimeconfig.cache
 C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

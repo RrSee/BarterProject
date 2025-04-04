@@ -10,19 +10,20 @@ using Microsoft.Extensions.Configuration;
 
 namespace BarterProject.Application.CQRS.Users.Handlers.CommandHandlers;
 
-public class RefreshTokenHandler : IRequestHandler<RefreshTokenRequest, Result<string>>
+public class RefreshTokenHandler(IUnitOfWork unitOfWork, IConfiguration configuration) : IRequestHandler<RefreshTokenRequest, Result<string>>
 {
-    private readonly IUnitOfWork _unitOfWork;
-    private readonly IConfiguration _configuration;
+    private readonly IUnitOfWork _unitOfWork = unitOfWork;
+    private readonly IConfiguration _configuration = configuration;
+
     public async Task<Result<string>> Handle(RefreshTokenRequest request, CancellationToken cancellationToken)
     {
         var refreshToken = await _unitOfWork.RefreshTokenRepository.GetRefreshToken(request.Token);
-        var currentUser = await _unitOfWork.UserRepository.GetByIdAsync(refreshToken.UserId);
-
         if (refreshToken == null || refreshToken.ExpirationDate < DateTime.Now)
         {
             throw new UnauthorizedAccessException();
         }
+        var currentUser = await _unitOfWork.UserRepository.GetByIdAsync(refreshToken.UserId);
+
 
         List<Claim> authClaim = [
             new Claim(ClaimTypes.NameIdentifier, currentUser.Id.ToString()),
