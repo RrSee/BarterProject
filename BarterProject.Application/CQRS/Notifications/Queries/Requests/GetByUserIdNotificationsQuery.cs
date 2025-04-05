@@ -3,11 +3,11 @@ using MediatR;
 
 namespace BarterProject.Application.CQRS.Notifications.Queries.Requests;
 
-public class GetNotificationsByUserQuery : IRequest<List<GetNotificationsByUserResponse>>
+public class GetByUserIdNotificationsQuery : IRequest<List<GetByUserIdNotificationsResponse>>
 {
     public int UserId { get; set; }
 
-    public GetNotificationsByUserQuery(int userId)
+    public GetByUserIdNotificationsQuery(int userId)
     {
         UserId = userId;
     }

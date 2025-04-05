@@ -1,15 +1,15 @@
 ﻿using BarterProject.Application.CQRS.Items.Commands.Requests;
 using FluentValidation;
 
-namespace BarterProject.Application.CQRS.Items.Commands.Validators;
+namespace BarterProject.Application.CQRS.Items.Validators;
 
-public class AddItemCommandValidator : AbstractValidator<AddItemCommandRequest>
+public class AddItemValidator : AbstractValidator<AddItemCommandRequest>
 {
-    public AddItemCommandValidator()
+    public AddItemValidator()
     {
         RuleFor(x => x.Name)
             .NotEmpty().WithMessage("Item name is required.")
-            .MaximumLength(100).WithMessage("Item name must be at most 100 characters.");
+            .MaximumLength(50).WithMessage("Item name must be at most 50 characters.");
 
         RuleFor(x => x.Description)
             .NotEmpty().WithMessage("Description is required.")
@@ -17,9 +17,11 @@ public class AddItemCommandValidator : AbstractValidator<AddItemCommandRequest>
 
         RuleFor(x => x.ImagePath)
             .NotEmpty().WithMessage("Image path is required.")
-            .Matches(@"^(http|https):\/\/").WithMessage("Image path must be a valid URL.");
+            .Matches(@"^(http|https):\/\/").WithMessage("Image path must be a valid URL.")
+            .MaximumLength(1000).WithMessage("Image path must be at most 1000 characters.");
 
         RuleFor(x => x.UserId)
+            .NotEmpty().WithMessage("User ID is required.")
             .GreaterThan(0).WithMessage("User ID must be greater than zero.");
     }
 }

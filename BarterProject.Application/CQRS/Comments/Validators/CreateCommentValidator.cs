@@ -1,20 +1,22 @@
 ﻿using BarterProject.Application.CQRS.Comments.Commands.Requests;
 using FluentValidation;
 
-namespace BarterProject.Application.CQRS.Comments.Commands.Validators;
+namespace BarterProject.Application.CQRS.Comments.Validators;
 
-public class CreateCommentRequestValidator : AbstractValidator<CreateCommentRequest>
+public class CreateCommentValidator : AbstractValidator<CreateCommentRequest>
 {
-    public CreateCommentRequestValidator()
+    public CreateCommentValidator()
     {
         RuleFor(x => x.Description)
             .NotEmpty().WithMessage("Description is required.")
-            .MaximumLength(500).WithMessage("Description must be at most 500 characters.");
+            .MaximumLength(300).WithMessage("Description must be at most 300 characters.");
 
         RuleFor(x => x.UserId)
+            .NotEmpty().WithMessage("User ID is required.")
             .GreaterThan(0).WithMessage("User ID must be greater than zero.");
 
         RuleFor(x => x.ItemId)
+            .NotEmpty().WithMessage("Item ID is required.")
             .GreaterThan(0).WithMessage("Item ID must be greater than zero.");
     }
 }

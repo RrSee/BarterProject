@@ -33,7 +33,7 @@ namespace BarterProject.Controllers
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var result = await _sender.Send(new GetNotificationByIdQuery(id));
+            var result = await _sender.Send(new GetByIdNotificationQuery(id));
             return result != null ? Ok(result) : NotFound();
         }
 

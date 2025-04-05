@@ -1,6 +1,5 @@
 ﻿using BarterProject.Application.CQRS.Notifications.Commands.Requests;
 using BarterProject.Application.CQRS.Notifications.Commands.Responses;
-using BarterProject.Application.CQRS.Notifications.Commands.Validators;
 using BarterProject.Common.GlobalResponses;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;

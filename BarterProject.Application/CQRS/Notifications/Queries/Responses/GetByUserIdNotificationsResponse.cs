@@ -1,6 +1,6 @@
 ﻿namespace BarterProject.Application.CQRS.Notifications.Queries.Responses;
 
-public class GetNotificationsByUserResponse
+public class GetByUserIdNotificationsResponse
 {
     public int Id { get; set; }
     public string Description { get; set; }

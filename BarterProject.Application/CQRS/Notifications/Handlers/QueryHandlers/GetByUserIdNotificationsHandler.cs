@@ -7,22 +7,22 @@ using MediatR;
 
 namespace BarterProject.Application.CQRS.Notifications.Handlers.QueryHandlers;
 
-public class GetNotificationsByUserHandler : IRequestHandler<GetNotificationsByUserQuery, List<GetNotificationsByUserResponse>>
+public class GetByUserIdNotificationsHandler : IRequestHandler<GetByUserIdNotificationsQuery, List<GetByUserIdNotificationsResponse>>
 {
     private readonly IUnitOfWork _unitOfWork;
     private readonly IMapper _mapper;
 
-    public GetNotificationsByUserHandler(IUnitOfWork unitOfWork, IMapper mapper)
+    public GetByUserIdNotificationsHandler(IUnitOfWork unitOfWork, IMapper mapper)
     {
         _unitOfWork = unitOfWork;
         _mapper = mapper;
     }
 
-    public async Task<List<GetNotificationsByUserResponse>> Handle(GetNotificationsByUserQuery request, CancellationToken cancellationToken)
+    public async Task<List<GetByUserIdNotificationsResponse>> Handle(GetByUserIdNotificationsQuery request, CancellationToken cancellationToken)
     {
         var notifications = await _unitOfWork.NotificationRepository.GetByUserIdAsync(request.UserId);
 
-        var response = _mapper.Map<List<GetNotificationsByUserResponse>>(notifications);
+        var response = _mapper.Map<List<GetByUserIdNotificationsResponse>>(notifications);
 
         return response; 
     }
