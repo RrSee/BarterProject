@@ -58,5 +58,12 @@ namespace BarterProject.Controllers
             var result = await _sender.Send(new GetByUserIdItemsQueryRequest { UserId = userId });
             return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
+
+        [HttpGet("search")]
+        public async Task<IActionResult> SearchItemsByName([FromQuery] string keyword)
+        {
+            var result = await _sender.Send(new SearchItemsByNameQueryRequest { Keyword = keyword });
+            return result.IsSuccess ? Ok(result.Data) : BadRequest(result.Errors);
+        }
     }
 }

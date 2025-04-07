@@ -50,6 +50,10 @@ public class MappingProfile : Profile
         CreateMap<Item, GetAllItemsQueryResponse>();
         CreateMap<Item, GetByIdItemQueryResponse>();
         CreateMap<Item, GetByUserIdItemsQueryResponse>();
+        CreateMap<Item, SearchItemsByNameQueryResponse>()
+            .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+            .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name)) 
+            .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description));
         //User
         CreateMap<RegisterUserRequest,User>();
         CreateMap<User, RegisterUserResponse>();

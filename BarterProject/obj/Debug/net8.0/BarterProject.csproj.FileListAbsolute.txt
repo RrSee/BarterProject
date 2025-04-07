@@ -439,3 +439,8 @@ C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.dll
+C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.Sinks.File.dll

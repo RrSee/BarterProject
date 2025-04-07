@@ -222,12 +222,18 @@
       "System.Text.Json/4.7.2": {},
       "BarterProject.Common/1.0.0": {
         "runtime": {
-          "BarterProject.Common.dll": {}
+          "BarterProject.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BarterProject.Domain/1.0.0": {
         "runtime": {
-          "BarterProject.Domain.dll": {}
+          "BarterProject.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BarterProject.Repository/1.0.0": {
@@ -235,7 +241,10 @@
           "BarterProject.Domain": "1.0.0"
         },
         "runtime": {
-          "BarterProject.Repository.dll": {}
+          "BarterProject.Repository.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
