@@ -1,5 +1,6 @@
 ﻿using BarterProject.Application.CQRS.Comments.Commands.Requests;
 using BarterProject.Application.CQRS.Comments.Commands.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using FluentValidation;
@@ -29,7 +30,9 @@ public class UpdateCommentHandler : IRequestHandler<UpdateCommentRequest, Result
         var comment = await _unitOfWork.CommentRepository.GetByIdAsync(request.Id);
         if (comment == null)
         {
-            return new Result<UpdateCommentResponse>(new List<string> { "Comment not found." });
+            //return new Result<UpdateCommentResponse>(new List<string> { "Comment not found." });
+            throw new BadRequestException("Comment not found.");
+
         }
 
         comment.Description = request.Description;

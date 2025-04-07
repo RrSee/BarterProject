@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Users.Commads.Requests;
 using BarterProject.Application.CQRS.Users.Commads.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -15,7 +16,7 @@ public class UpdateUserHandler(IUnitOfWork unitOfWork, IMapper mapper) : IReques
     public async Task<Result<UpdateUserResponse>> Handle(UpdateUserRequest request, CancellationToken cancellationToken)
     {
         var currentUser = await _unitOfWork.UserRepository.GetByIdAsync(request.Id);
-        if (currentUser == null) throw new Exception($"User does not exist with id : {request.Id}"); //--------------------
+        if (currentUser == null) throw new BadRequestException($"User does not exist with id : {request.Id}"); 
 
         currentUser.Name = request.Name;
         currentUser.Surname = request.Surname;

@@ -1,4 +1,5 @@
 ﻿using BarterProject.Application.CQRS.Items.Commands.Requests;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses;
 using BarterProject.Repository.Common;
 using FluentValidation;
@@ -26,7 +27,9 @@ public class UpdateItemCommandHandler : IRequestHandler<UpdateItemCommandRequest
         var item = await _unitOfWork.ItemRepository.GetByIdAsync(request.Id);
         if (item == null)
         {
-            return new Result(new List<string> { "Item not found." });
+            //return new Result(new List<string> { "Item not found." });
+            throw new BadRequestException("Item not found.");
+
         }
 
         item.Name = request.Name;

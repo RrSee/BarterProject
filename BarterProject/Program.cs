@@ -7,6 +7,7 @@ using System.Reflection;
 using BarterProject.Security;
 using BarterProject.Application.Security;
 using BarterProject.Infrastructure;
+using BarterProject.Middlewares;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -39,6 +40,10 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+//Custom Middlewares
+app.UseMiddleware<RateLimitMiddleware>(5, TimeSpan.FromMinutes(1));
+app.UseMiddleware<ExceptionHandlerMiddleWare>();
 
 app.MapControllers();
 

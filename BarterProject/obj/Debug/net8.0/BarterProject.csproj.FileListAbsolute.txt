@@ -437,3 +437,5 @@ C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\Barter
 C:\Users\eliel\Source\Repos\BarterProjectt\BarterProject\obj\Debug\net8.0\ref\BarterProject.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.Sinks.File.dll

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Users.Queries.Requests;
 using BarterProject.Application.CQRS.Users.Queries.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -17,7 +18,7 @@ public class GetByIdUserHandler(IUnitOfWork unitOfWork, IMapper mapper) : IReque
         var currentUser = await _unitOfWork.UserRepository.GetByIdAsync(request.UserId);
         if (currentUser == null)
         {
-            throw new Exception("User is not exist with provided Id");
+            throw new BadRequestException("User is not exist with provided Id");
         }
 
         var result = _mapper.Map<GetByIdUserResponse>(currentUser);

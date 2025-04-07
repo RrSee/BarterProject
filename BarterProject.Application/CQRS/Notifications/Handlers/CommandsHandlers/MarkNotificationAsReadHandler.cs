@@ -1,5 +1,6 @@
 ﻿using BarterProject.Application.CQRS.Notifications.Commands.Requests;
 using BarterProject.Application.CQRS.Notifications.Commands.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
@@ -29,7 +30,8 @@ public class MarkNotificationAsReadHandler : IRequestHandler<MarkNotificationAsR
 
         if (notification == null || notification.IsDeleted)
         {
-            return new Result<MarkNotificationAsReadResponse> { Errors = new List<string> { "Notification not found or already deleted." } };
+            //return new Result<MarkNotificationAsReadResponse> { Errors = new List<string> { "Notification not found or already deleted." } };
+            throw new BadRequestException("Notification not found or already deleted.");
         }
         notification.IsRead = true;
         await _unitOfWork.NotificationRepository.UpdateAsync(notification);

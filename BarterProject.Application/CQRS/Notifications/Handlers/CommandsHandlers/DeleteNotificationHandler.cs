@@ -1,5 +1,6 @@
 ﻿using BarterProject.Application.CQRS.Notifications.Commands.Requests;
 using BarterProject.Application.CQRS.Notifications.Commands.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using BarterProject.Repository.Repositories;
@@ -27,7 +28,9 @@ public class DeleteNotificationHandler : IRequestHandler<DeleteNotificationComma
 
         if (notification == null || notification.IsDeleted)
         {
-            return new Result<DeleteNotificationResponse>(new List<string> { "Notification not found or already deleted." });
+            //return new Result<DeleteNotificationResponse>(new List<string> { "Notification not found or already deleted." });
+            throw new BadRequestException("Notification not found or already deleted.");
+
         }
 
         notification.IsDeleted = true;

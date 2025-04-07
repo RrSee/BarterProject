@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Users.Queries.Requests;
 using BarterProject.Application.CQRS.Users.Queries.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -17,7 +18,7 @@ public class GetByEmailUserHandler(IUnitOfWork unitOfWork, IMapper mapper) : IRe
         var currentUser = await _unitOfWork.UserRepository.GetByEmailAsync(request.Email);
         if (currentUser == null)
         {
-            throw new Exception("User is not exist with provided Id");
+            throw new BadRequestException("User is not exist with provided Id");
         }
 
         var result = _mapper.Map<GetByEmailUserResponse>(currentUser);

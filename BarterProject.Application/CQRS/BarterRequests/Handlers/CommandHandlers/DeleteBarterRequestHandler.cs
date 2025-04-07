@@ -1,5 +1,6 @@
 ﻿using BarterProject.Application.CQRS.BarterRequests.Commands.Requests;
 using BarterProject.Application.CQRS.BarterRequests.Commands.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -15,7 +16,7 @@ public class DeleteBarterRequestHandler(IUnitOfWork unitOfWork) : IRequestHandle
 
         if (success == false)
         {
-            throw new Exception("Customer not found or already deleted."); //---------------------------------
+            throw new BadRequestException("Customer not found or already deleted.");
         }
 
         return new Result<DeleteBarterRequestResponse>

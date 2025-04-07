@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8tNtKNDLy4w=",
+  "dgSpecHash": "A6hhtUxmtR4=",
   "success": true,
   "projectFilePath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,8 @@
     "C:\\Users\\nicec\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.24.0\\microsoft.identitymodel.tokens.6.24.0.nupkg.sha512",
     "C:\\Users\\nicec\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\nicec\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\nicec\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\nicec\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
     "C:\\Users\\nicec\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.24.0\\system.identitymodel.tokens.jwt.6.24.0.nupkg.sha512",
     "C:\\Users\\nicec\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\nicec\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",

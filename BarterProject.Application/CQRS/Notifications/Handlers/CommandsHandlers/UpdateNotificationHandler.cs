@@ -32,7 +32,8 @@ public class UpdateNotificationHandler : IRequestHandler<UpdateNotificationComma
         var notification = await _unitOfWork.NotificationRepository.GetByIdAsync(request.NotificationId);
         if (notification == null || notification.IsDeleted)
         {
-            return new Result<UpdateNotificationResponse> { Errors = new List<string> { "Notification not found or has been deleted." } };
+            //return new Result<UpdateNotificationResponse> { Errors = new List<string> { "Notification not found or has been deleted." } };
+            throw new BadRequestException("Notification not found or has been deleted.");
         }
 
         _mapper.Map(request, notification);

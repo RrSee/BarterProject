@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Items.Queries.Requests;
 using BarterProject.Application.CQRS.Items.Queries.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -24,7 +25,8 @@ public class GetByUserIdItemsQueryHandler : IRequestHandler<GetByUserIdItemsQuer
 
         if (items == null || items.Count()== 0)
         {
-            return new Result<List<GetByUserIdItemsQueryResponse>>(new List<string> { "No items found for this user" });
+            //return new Result<List<GetByUserIdItemsQueryResponse>>(new List<string> { "No items found for this user" });
+            throw new BadRequestException("No items found for this user");
         }
 
         var response = _mapper.Map<List<GetByUserIdItemsQueryResponse>>(items);

@@ -1,0 +1,8 @@
+2025-04-07 22:08:52.036 +04:00 [INF] Registering attempt  : niko@mail.ru
+2025-04-07 22:08:54.915 +04:00 [INF] User registered website successfully: niko@mail.ru
+2025-04-07 22:11:05.570 +04:00 [INF] Logging attempt  : niko@mail.ru
+2025-04-07 22:11:05.714 +04:00 [INF] User entered website successfully: niko@mail.ru
+2025-04-07 22:55:54.899 +04:00 [INF] Logging attempt  : miko@mail.ru
+2025-04-07 22:55:54.970 +04:00 [WRN] User does not exist with email: miko@mail.ru
+2025-04-07 22:56:20.565 +04:00 [INF] Logging attempt  : niko@mail.ru
+2025-04-07 22:56:20.753 +04:00 [INF] User entered website successfully: niko@mail.ru
