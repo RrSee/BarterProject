@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BarterProject.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f788db3e84a48286f3da2229bfdab92c01abab28")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91ef6223b66054cdf6f3ba8282d7219486395246")]
 [assembly: System.Reflection.AssemblyProductAttribute("BarterProject.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BarterProject.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

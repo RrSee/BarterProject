@@ -24,7 +24,7 @@ public class UserController : ControllerBase
         var result = await _sender.Send(new GetByIdUserRequest { UserId = id});
         return result.IsSuccess ? Ok(result) : BadRequest(result);
     }
-    [HttpGet]
+    [HttpGet("Email")]
     public async Task<IActionResult> GetByEmail(string email)
     {
         var result = await _sender.Send(new GetByEmailUserRequest { Email = email });

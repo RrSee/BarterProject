@@ -17,7 +17,7 @@ public class AddItemValidator : AbstractValidator<AddItemCommandRequest>
 
         RuleFor(x => x.ImagePath)
             .NotEmpty().WithMessage("Image path is required.")
-            .Matches(@"^(http|https):\/\/").WithMessage("Image path must be a valid URL.")
+            //.Matches(@"^(http|https):\/\/").WithMessage("Image path must be a valid URL.")
             .MaximumLength(1000).WithMessage("Image path must be at most 1000 characters.");
 
         RuleFor(x => x.UserId)
