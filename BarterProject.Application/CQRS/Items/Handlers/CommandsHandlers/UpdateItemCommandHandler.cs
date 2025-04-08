@@ -33,6 +33,7 @@ public class UpdateItemCommandHandler : IRequestHandler<UpdateItemCommandRequest
         }
 
         item.Name = request.Name;
+        item.CategoryId = request.CategoryId;
         item.Description = request.Description;
         item.ImagePath = request.ImagePath ?? item.ImagePath;
         item.UpdatedBy = request.UpdatedBy;

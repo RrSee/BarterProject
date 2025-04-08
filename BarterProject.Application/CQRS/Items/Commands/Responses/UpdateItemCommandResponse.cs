@@ -6,6 +6,7 @@ public class UpdateItemCommandResponse
     public string Name { get; set; }
     public string Description { get; set; }
     public string? ImagePath { get; set; }
+    public int CategorId { get; set; }
     public int UpdatedBy { get; set; }
     public DateTime UpdatedDate { get; set; }
 }

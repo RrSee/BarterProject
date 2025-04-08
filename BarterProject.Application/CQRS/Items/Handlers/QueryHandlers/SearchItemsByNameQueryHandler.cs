@@ -17,14 +17,13 @@ public class SearchItemsByNameQueryHandler : IRequestHandler<SearchItemsByNameQu
         _unitOfWork = unitOfWork;
         _mapper = mapper;
     }
-
     public async Task<Result<List<SearchItemsByNameQueryResponse>>> Handle(SearchItemsByNameQueryRequest request, CancellationToken cancellationToken)
     {
-        var keyword = request.Keyword?.Trim().ToLower() ?? "";  
-        var items = await _unitOfWork.ItemRepository.GetAllAsync();
-        var filteredItems = items.Where(i => i.Name.ToLower().Contains(keyword)).ToList();
+        var keyword = request.Keyword?.Trim().ToLower() ?? ""; 
 
-        if (!filteredItems.Any())
+        var filteredItems = await _unitOfWork.ItemRepository.SearchByNameAsync(keyword);
+
+        if (filteredItems == null || !filteredItems.Any())  
         {
             return new Result<List<SearchItemsByNameQueryResponse>>(new List<string> { "No items found matching the search term" });
         }
@@ -33,3 +32,4 @@ public class SearchItemsByNameQueryHandler : IRequestHandler<SearchItemsByNameQu
         return new Result<List<SearchItemsByNameQueryResponse>> { IsSuccess = true, Data = response };
     }
 }
+

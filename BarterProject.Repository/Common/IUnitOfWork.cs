@@ -8,6 +8,7 @@ public interface IUnitOfWork
     public INotificationRepository NotificationRepository { get; }
     public ICommentRepository CommentRepository { get; }
     public IItemRepository ItemRepository { get; }
+    public ICategoryRepository CategoryRepository { get; }
     public IUserRepository UserRepository { get; }
     public IRefreshTokenRepository RefreshTokenRepository { get; }
     Task<int> CommitAsync();

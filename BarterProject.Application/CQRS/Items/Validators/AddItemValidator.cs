@@ -23,5 +23,9 @@ public class AddItemValidator : AbstractValidator<AddItemCommandRequest>
         RuleFor(x => x.UserId)
             .NotEmpty().WithMessage("User ID is required.")
             .GreaterThan(0).WithMessage("User ID must be greater than zero.");
+
+        RuleFor(x => x.CategoryId)
+            .GreaterThan(0).WithMessage("CategoryId must be greater than zero.");
     }
+
 }

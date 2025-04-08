@@ -1,6 +1,9 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.BarterRequests.Commands.Requests;
 using BarterProject.Application.CQRS.BarterRequests.Commands.Responses;
+using BarterProject.Application.CQRS.Categories.Command.Requests;
+using BarterProject.Application.CQRS.Categories.Command.Responses;
+using BarterProject.Application.CQRS.Categories.Queries.Responses;
 using BarterProject.Application.CQRS.Comments.Commands.Requests;
 using BarterProject.Application.CQRS.Comments.Commands.Responses;
 using BarterProject.Application.CQRS.Comments.Queries.Responses;
@@ -40,8 +43,12 @@ public class MappingProfile : Profile
         CreateMap<Comment, GetByItemIdCommentResponse>();
         //Item
         CreateMap<AddItemCommandRequest, Item>()
-            .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now)) 
-            .ForMember(dest => dest.IsDeleted, opt => opt.MapFrom(src => false));
+    .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now))  
+    .ForMember(dest => dest.IsDeleted, opt => opt.MapFrom(src => false))            
+    .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.CategoryId)); 
+
+
+
         CreateMap<Item, AddItemCommandResponse>();
         CreateMap<UpdateItemCommandRequest, Item>()
             .ForMember(dest => dest.UpdatedDate, opt => opt.MapFrom(src => DateTime.Now)); 
@@ -54,12 +61,30 @@ public class MappingProfile : Profile
             .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
             .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name)) 
             .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description));
-        //User
-        CreateMap<RegisterUserRequest,User>();
+        CreateMap<Item, GetItemsByCategoryIdQueryResponse>()
+    .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+    .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
+    .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description));
+        CreateMap<Item, SearchItemsByCategoryAndNameQueryResponse>()
+         .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
+         .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
+         .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description))
+         .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name)); 
+
+    //User
+    CreateMap<RegisterUserRequest,User>();
         CreateMap<User, RegisterUserResponse>();
         CreateMap<User,UpdateUserResponse>();
         CreateMap<User, GetAllUserResponse>();
         CreateMap<User, GetByEmailUserResponse>();
         CreateMap<User,GetByIdUserResponse>();
+        //Category
+        CreateMap<CreateCategoryCommandRequest, Category>()
+        .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now));
+        CreateMap<Category, CreateCategoryCommandResponse>();
+        CreateMap<UpdateCategoryCommandRequest, Category>();
+        CreateMap<Category, UpdateCategoryCommandResponse>();
+        CreateMap<Category, GetCategoryByIdQueryResponse>();
+        CreateMap<Category, GetAllCategoriesQueryResponse>();
     }
 }

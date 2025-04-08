@@ -65,12 +65,26 @@ public class SqlItemRepository(AppDbContext context):IItemRepository
         existingItem.Description = item.Description;
         existingItem.ImagePath = item.ImagePath;
         existingItem.UpdatedDate = DateTime.Now;
-
+        existingItem.CategoryId = item.CategoryId;
         _context.Items.Update(existingItem);
         await _context.SaveChangesAsync();
 
         return true;
     }
 
-   
+
+    public async Task<List<Item>> SearchByNameAsync(string keyword)
+    {
+        return await _context.Items
+            .Where(i => i.Name.ToLower().Contains(keyword.ToLower()))
+            .ToListAsync();
+    }
+
+    public async Task<List<Item>> GetByCategoryIdAsync(int categoryId)
+    {
+        return await _context.Items
+        .Where(i => i.CategoryId == categoryId)
+        .ToListAsync();
+    }
 }
+

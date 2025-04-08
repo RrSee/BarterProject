@@ -16,6 +16,7 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     public SqlItemRepository _itemRepository;
     public SqlUserRepository _userRepository;
     public SqlRefreshTokenRepository _refreshTokenRepository;
+    public SqlCategoryRepository _categoryRepository;
     public IBarterRequestRepository BarterRequestRepository => _barterRequestRepository ?? new SqlBarterRequestRepository(_context);
 
     public INotificationRepository NotificationRepository => _notificationRepository ?? new SqlNotificationRepository(_context);
@@ -25,6 +26,7 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     public IItemRepository ItemRepository => _itemRepository ?? new SqlItemRepository(_context);
 
     public IUserRepository UserRepository => _userRepository ?? new SqlUserRepository(_context);
+    public ICategoryRepository CategoryRepository => _categoryRepository ?? new SqlCategoryRepository(_context);
 
     public IRefreshTokenRepository RefreshTokenRepository => _refreshTokenRepository ?? new SqlRefreshTokenRepository(_context);
 

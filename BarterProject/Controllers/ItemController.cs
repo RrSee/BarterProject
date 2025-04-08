@@ -65,5 +65,19 @@ namespace BarterProject.Controllers
             var result = await _sender.Send(new SearchItemsByNameQueryRequest { Keyword = keyword });
             return result.IsSuccess ? Ok(result.Data) : BadRequest(result.Errors);
         }
+
+        [HttpGet("category/{categoryId}")]
+        public async Task<IActionResult> GetByCategoryId(int categoryId)
+        {
+            var result = await _sender.Send(new GetItemsByCategoryIdQueryRequest(categoryId));
+            return result.IsSuccess ? Ok(result.Data) : BadRequest(result.Errors);
+        }
+
+        [HttpGet("searchByCategoryAndName")]
+        public async Task<IActionResult> SearchItemsByCategoryAndName([FromQuery] int? categoryId, [FromQuery] string keyword)
+        {
+            var result = await _sender.Send(new SearchItemsByCategoryAndNameQueryRequest(categoryId, keyword));
+            return result.IsSuccess ? Ok(result.Data) : BadRequest(result.Errors);
+        }
     }
 }

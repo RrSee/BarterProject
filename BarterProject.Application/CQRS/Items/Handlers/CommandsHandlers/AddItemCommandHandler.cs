@@ -32,6 +32,7 @@ public class AddItemCommandHandler : IRequestHandler<AddItemCommandRequest, Resu
         var item = new Item
         {
             Name = request.Name,
+            CategoryId = request.CategoryId,
             Description = request.Description,
             ImagePath = request.ImagePath,
             UserId = request.UserId,

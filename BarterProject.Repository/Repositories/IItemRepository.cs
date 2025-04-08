@@ -10,4 +10,8 @@ public interface IItemRepository
     Task<Item?> GetByIdAsync(int id);
     Task<IEnumerable<Item>> GetAllAsync();
     Task<IEnumerable<Item>> GetByUserIdAsync(int userId);
+    Task<List<Item>> SearchByNameAsync(string keyword);
+    Task<List<Item>> GetByCategoryIdAsync(int categoryId);
+
+
 }
