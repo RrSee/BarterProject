@@ -9,6 +9,13 @@ public class SqlUserRepository(AppDbContext context) : IUserRepository
 {
     private readonly AppDbContext _context = context;
 
+    public async Task AddFavoriteItemAsync(UsersFavoriteItems favoriteItem)
+    {
+        favoriteItem.CreatedDate = DateTime.Now;
+        await _context.UsersFavoriteItems.AddAsync(favoriteItem);
+        await _context.SaveChangesAsync();
+    }
+
     public IQueryable<User> GetAll()
     {
         return _context.Users.Where(u => u.IsDeleted == false);

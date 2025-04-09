@@ -59,6 +59,13 @@ public class UserController : ControllerBase
         return result.IsSuccess ? Ok(result) : BadRequest(result);
     }
 
+    [HttpPost("AddFavoriteItem")]
+    public async Task<IActionResult> AddFavoriteItem([FromBody] AddFavoriteItemRequest request)
+    {
+        var result = await _sender.Send(request);
+        return result.IsSuccess ? Ok(result) : BadRequest(result);
+    }
+
     [HttpPost("Login")]
     [AllowAnonymous]
     public async Task<IActionResult> Login([FromBody] LoginUserRequest request) { 

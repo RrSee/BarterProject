@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Categories.Command.Requests;
 using BarterProject.Application.CQRS.Categories.Command.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -24,7 +25,8 @@ public class UpdateCategoryCommandHandler : IRequestHandler<UpdateCategoryComman
 
         if (category == null)
         {
-            return new Result<UpdateCategoryCommandResponse>(new List<string> { "Category not found" });
+            //return new Result<UpdateCategoryCommandResponse>(new List<string> { "Category not found" });
+            throw new BadRequestException("Category not found");
         }
 
         category.Name = request.Name;
@@ -35,7 +37,8 @@ public class UpdateCategoryCommandHandler : IRequestHandler<UpdateCategoryComman
 
         if (!updatedCategory)
         {
-            return new Result<UpdateCategoryCommandResponse>(new List<string> { "Category update failed" });
+            //return new Result<UpdateCategoryCommandResponse>(new List<string> { "Category update failed" });
+            throw new BadRequestException("Category update failed");
         }
         var response = _mapper.Map<UpdateCategoryCommandResponse>(category);
         return new Result<UpdateCategoryCommandResponse> { Data = response };

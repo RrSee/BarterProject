@@ -32,9 +32,9 @@ public class MappingProfile : Profile
         CreateMap<Notification, GetByIdNotificationResponse>();
         CreateMap<Notification, GetByUserIdNotificationsResponse>();
         CreateMap<Notification, GetUnreadNotificationsResponse>();
-        CreateMap<CreateNotificationCommand, Notification>();  
-        CreateMap<Notification, CreateNotificationResponse>(); 
-        CreateMap<UpdateNotificationCommand, Notification>(); 
+        CreateMap<CreateNotificationCommand, Notification>();
+        CreateMap<Notification, CreateNotificationResponse>();
+        CreateMap<UpdateNotificationCommand, Notification>();
         CreateMap<Notification, UpdateNotificationResponse>();
         //Comment
         CreateMap<CreateCommentRequest, Comment>();
@@ -43,15 +43,15 @@ public class MappingProfile : Profile
         CreateMap<Comment, GetByItemIdCommentResponse>();
         //Item
         CreateMap<AddItemCommandRequest, Item>()
-    .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now))  
-    .ForMember(dest => dest.IsDeleted, opt => opt.MapFrom(src => false))            
-    .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.CategoryId)); 
+    .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now))
+    .ForMember(dest => dest.IsDeleted, opt => opt.MapFrom(src => false))
+    .ForMember(dest => dest.CategoryId, opt => opt.MapFrom(src => src.CategoryId));
 
 
 
         CreateMap<Item, AddItemCommandResponse>();
         CreateMap<UpdateItemCommandRequest, Item>()
-            .ForMember(dest => dest.UpdatedDate, opt => opt.MapFrom(src => DateTime.Now)); 
+            .ForMember(dest => dest.UpdatedDate, opt => opt.MapFrom(src => DateTime.Now));
         CreateMap<Item, UpdateItemCommandResponse>();
         CreateMap<DeleteItemCommandRequest, Item>();
         CreateMap<Item, GetAllItemsQueryResponse>();
@@ -59,7 +59,7 @@ public class MappingProfile : Profile
         CreateMap<Item, GetByUserIdItemsQueryResponse>();
         CreateMap<Item, SearchItemsByNameQueryResponse>()
             .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
-            .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name)) 
+            .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
             .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description));
         CreateMap<Item, GetItemsByCategoryIdQueryResponse>()
     .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
@@ -69,15 +69,17 @@ public class MappingProfile : Profile
          .ForMember(dest => dest.Id, opt => opt.MapFrom(src => src.Id))
          .ForMember(dest => dest.Name, opt => opt.MapFrom(src => src.Name))
          .ForMember(dest => dest.Description, opt => opt.MapFrom(src => src.Description))
-         .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name)); 
+         .ForMember(dest => dest.CategoryName, opt => opt.MapFrom(src => src.Category.Name));
 
-    //User
-    CreateMap<RegisterUserRequest,User>();
+        //User
+        CreateMap<RegisterUserRequest, User>();
         CreateMap<User, RegisterUserResponse>();
-        CreateMap<User,UpdateUserResponse>();
+        CreateMap<User, UpdateUserResponse>();
         CreateMap<User, GetAllUserResponse>();
         CreateMap<User, GetByEmailUserResponse>();
-        CreateMap<User,GetByIdUserResponse>();
+        CreateMap<User, GetByIdUserResponse>();
+        CreateMap<AddFavoriteItemRequest, UsersFavoriteItems>();
+        CreateMap<UsersFavoriteItems, AddFavoriteItemResponse>();
         //Category
         CreateMap<CreateCategoryCommandRequest, Category>()
         .ForMember(dest => dest.CreatedDate, opt => opt.MapFrom(src => DateTime.Now));

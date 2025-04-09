@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Categories.Command.Requests;
 using BarterProject.Application.CQRS.Categories.Command.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Domain.Entites;
 using BarterProject.Repository.Common;
@@ -31,7 +32,8 @@ public class CreateCategoryCommandHandler : IRequestHandler<CreateCategoryComman
         await _unitOfWork.CommitAsync();
         if (createdCategory == null)
         {
-            return new Result<CreateCategoryCommandResponse>(new List<string> { "Category creation failed" });
+            //return new Result<CreateCategoryCommandResponse>(new List<string> { "Category creation failed" });
+            throw new BadRequestException("Category creation failed");
         }
 
         var response = _mapper.Map<CreateCategoryCommandResponse>(createdCategory);

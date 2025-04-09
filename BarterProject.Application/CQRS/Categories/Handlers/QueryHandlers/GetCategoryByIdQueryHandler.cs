@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using BarterProject.Application.CQRS.Categories.Queries.Requests;
 using BarterProject.Application.CQRS.Categories.Queries.Responses;
+using BarterProject.Common.Exceptions;
 using BarterProject.Common.GlobalResponses.Generics;
 using BarterProject.Repository.Common;
 using MediatR;
@@ -24,7 +25,8 @@ public class GetCategoryByIdQueryHandler : IRequestHandler<GetCategoryByIdQueryR
 
         if (category == null)
         {
-            return new Result<GetCategoryByIdQueryResponse>(new List<string> { "Category not found" });
+            //return new Result<GetCategoryByIdQueryResponse>(new List<string> { "Category not found" });
+            throw new BadRequestException("Category not found");
         }
         var response = _mapper.Map<GetCategoryByIdQueryResponse>(category);
 

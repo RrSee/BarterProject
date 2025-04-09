@@ -1,0 +1,2 @@
+2025-04-10 00:36:37.036 +04:00 [INF] Registering attempt  : niko@mail.ru
+2025-04-10 00:36:37.468 +04:00 [INF] User registered website successfully: niko@mail.ru

@@ -557,18 +557,12 @@
       },
       "BarterProject.Common/1.0.0": {
         "runtime": {
-          "BarterProject.Common.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BarterProject.Common.dll": {}
         }
       },
       "BarterProject.Domain/1.0.0": {
         "runtime": {
-          "BarterProject.Domain.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BarterProject.Domain.dll": {}
         }
       },
       "BarterProject.Repository/1.0.0": {
@@ -576,10 +570,7 @@
           "BarterProject.Domain": "1.0.0"
         },
         "runtime": {
-          "BarterProject.Repository.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "BarterProject.Repository.dll": {}
         }
       }
     }

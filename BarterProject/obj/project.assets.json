@@ -183,12 +183,12 @@
         },
         "compile": {
           "ref/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Microsoft.Data.SqlClient.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtimeTargets": {
@@ -616,12 +616,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.OpenApi.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -629,12 +629,12 @@
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.SqlServer.Server.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -708,12 +708,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.Swagger.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -727,12 +727,12 @@
         },
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         }
       },
@@ -740,12 +740,12 @@
         "type": "package",
         "compile": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "runtime": {
           "lib/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll": {
-            "related": ".pdb;.xml"
+            "related": ".xml;.pdb"
           }
         },
         "frameworkReferences": [
@@ -3178,24 +3178,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eliel\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nicec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject\\BarterProject.csproj",
+      "projectUniqueName": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject\\BarterProject.csproj",
       "projectName": "BarterProject",
-      "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject\\BarterProject.csproj",
-      "packagesPath": "C:\\Users\\eliel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject\\obj\\",
+      "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject\\BarterProject.csproj",
+      "packagesPath": "C:\\Users\\nicec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\eliel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\nicec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3203,17 +3198,18 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj": {
-              "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj"
+            "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj": {
+              "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.Application\\BarterProject.Application.csproj"
             },
-            "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj": {
-              "projectPath": "C:\\Users\\eliel\\Source\\Repos\\BarterProject\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj"
+            "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj": {
+              "projectPath": "C:\\Users\\nicec\\OneDrive\\Рабочий стол\\BarterProject\\BarterProject.DAL.SqlServer\\BarterProject.DAL.SqlServer.csproj"
             }
           }
         }
@@ -3227,8 +3223,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -3274,7 +3269,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -11,4 +11,5 @@ public interface IUserRepository
     Task<IEnumerable<User>> GetAllInitialDataAsync();
     Task<User> GetByIdAsync(int id);
     Task<User> GetByEmailAsync(string email);
+    Task AddFavoriteItemAsync(UsersFavoriteItems favoriteItem);
 }
