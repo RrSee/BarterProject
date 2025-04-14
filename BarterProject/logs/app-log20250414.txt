@@ -1,0 +1,6 @@
+2025-04-14 01:44:46.035 +04:00 [INF] Registering attempt  : revan@mail.ru
+2025-04-14 01:44:46.270 +04:00 [INF] User registered website successfully: revan@mail.ru
+2025-04-14 19:38:38.965 +04:00 [INF] Registering attempt  : niko@mail.ru
+2025-04-14 19:38:40.462 +04:00 [INF] User registered website successfully: niko@mail.ru
+2025-04-14 19:39:19.173 +04:00 [INF] Registering attempt  : revan@mail.ru
+2025-04-14 19:39:19.208 +04:00 [INF] User registered website successfully: revan@mail.ru

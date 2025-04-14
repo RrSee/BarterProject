@@ -6,4 +6,5 @@ public interface IBarterRequestRepository
 {
     Task AddAsync(BarterRequest barterRequest);
     Task<bool> Delete(int id, int deletedBy);
+    Task<BarterRequest> GetByIdAsync(int id);
 }

@@ -444,3 +444,7 @@ C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\FluentV
 C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.dll
 C:\Users\eliel\Source\Repos\BarterProject\BarterProject\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\nicec\OneDrive\Рабочий стол\BarterProject\BarterProject\bin\Debug\net8.0\Newtonsoft.Json.dll

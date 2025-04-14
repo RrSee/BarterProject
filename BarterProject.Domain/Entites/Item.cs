@@ -7,7 +7,7 @@ public class Item:BaseEntity
     public string Name { get; set; } = null!;
     public string? ImagePath { get; set; }
     public string Description { get; set; } = null!;
-    public int? UserId { get; set; }
+    public int UserId { get; set; }
     public User? User { get; set; }
     public Category Category { get; set; }
     public int CategoryId { get; set; }

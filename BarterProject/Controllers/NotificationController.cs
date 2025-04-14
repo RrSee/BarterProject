@@ -37,7 +37,7 @@ namespace BarterProject.Controllers
             return result != null ? Ok(result) : NotFound();
         }
 
-        [HttpGet]
+        [HttpGet("All")]
         public async Task<IActionResult> GetAll()
         {
             var result = await _sender.Send(new GetAllNotificationsQuery());

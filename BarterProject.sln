@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject", "BarterProject\BarterProject.csproj", "{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject", "BarterProject\BarterProject.csproj", "{0D3A9E7C-892B-4494-A816-999D0B6DBD7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Domain", "BarterProject.Domain\BarterProject.Domain.csproj", "{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject.Domain", "BarterProject.Domain\BarterProject.Domain.csproj", "{646BCF1F-29BB-4F4B-8E99-1E54D3ACE966}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Application", "BarterProject.Application\BarterProject.Application.csproj", "{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject.Application", "BarterProject.Application\BarterProject.Application.csproj", "{3DD6D9BE-BFF3-4BC4-BE51-A2CE91D1AA83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Repository", "BarterProject.Repository\BarterProject.Repository.csproj", "{BDFE194E-6835-4153-B742-98377BDD29E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject.Repository", "BarterProject.Repository\BarterProject.Repository.csproj", "{BDFE194E-6835-4153-B742-98377BDD29E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.Common", "BarterProject.Common\BarterProject.Common.csproj", "{F908145F-61C1-4663-BF70-64DB5E890CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject.Common", "BarterProject.Common\BarterProject.Common.csproj", "{F908145F-61C1-4663-BF70-64DB5E890CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarterProject.DAL.SqlServer", "BarterProject.DAL.SqlServer\BarterProject.DAL.SqlServer.csproj", "{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BarterProject.DAL.SqlServer", "BarterProject.DAL.SqlServer\BarterProject.DAL.SqlServer.csproj", "{55C1DE6F-3535-410E-A3AD-3DACFC316BAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

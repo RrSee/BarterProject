@@ -1,6 +1,7 @@
 ﻿using BarterProject.DAL.SqlServer.Context;
 using BarterProject.Domain.Entites;
 using BarterProject.Repository.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace BarterProject.DAL.SqlServer.Infrastructure;
 
@@ -31,5 +32,8 @@ public class SqlBarterRequestRepository(AppDbContext context) : IBarterRequestRe
         return true;
     }
 
- 
+    public async Task<BarterRequest> GetByIdAsync(int id)
+    {
+        return await _context.BarterRequests.FirstOrDefaultAsync(x => x.Id == id && !x.IsDeleted);
+    }
 }

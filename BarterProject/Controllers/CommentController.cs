@@ -23,10 +23,9 @@ namespace BarterProject.Controllers
             return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] UpdateCommentRequest request)
+        [HttpPut("Id")]
+        public async Task<IActionResult> Update([FromBody] UpdateCommentRequest request)
         {
-            request.Id = id;
             var result = await _sender.Send(request);
             return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
@@ -45,7 +44,7 @@ namespace BarterProject.Controllers
             return result.IsSuccess ? Ok(result) : BadRequest(result);
         }
 
-        [HttpGet]
+        [HttpGet("All")]
         public async Task<IActionResult> GetAll()
         {
             var result = await _sender.Send(new GetAllCommentRequest());

@@ -8,6 +8,8 @@ using BarterProject.Security;
 using BarterProject.Application.Security;
 using BarterProject.Infrastructure;
 using BarterProject.Middlewares;
+using BarterProject.SignalR;
+using BarterProject.Services.SignalR;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -28,6 +30,9 @@ builder.Services.AddApplicationServices();
 builder.Services.AddAuthenticationDependency(builder.Configuration);
 builder.Services.AddScoped<IUserContext, HttpUserContext>();
 
+builder.Services.AddSignalR();
+builder.Services.AddScoped<ISignalRService, SignalRService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -46,5 +51,6 @@ app.UseMiddleware<RateLimitMiddleware>(5, TimeSpan.FromMinutes(1));
 app.UseMiddleware<ExceptionHandlerMiddleWare>();
 
 app.MapControllers();
+app.MapHub<NotificationHub>("/notificationHub");
 
 app.Run();

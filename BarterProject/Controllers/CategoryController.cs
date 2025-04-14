@@ -24,10 +24,9 @@ namespace BarterProject.Controllers
             return result.IsSuccess ? Ok(result) : BadRequest(result.Errors);
         }
 
-        [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] UpdateCategoryCommandRequest request)
+        [HttpPut("Id")]
+        public async Task<IActionResult> Update([FromBody] UpdateCategoryCommandRequest request)
         {
-            request.Id = id;
             var result = await _sender.Send(request);
             return result.IsSuccess ? Ok(result) : BadRequest(result.Errors);
         }
@@ -50,7 +49,7 @@ namespace BarterProject.Controllers
         }
 
         // Tüm kategorileri listeleme
-        [HttpGet]
+        [HttpGet("All")]
         public async Task<IActionResult> GetAll()
         {
             var result = await _sender.Send(new GetAllCategoriesQueryRequest());

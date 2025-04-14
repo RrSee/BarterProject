@@ -15,6 +15,13 @@ public class BarterRequestController(ISender sender) : ControllerBase
         var result = await _sender.Send(request);
         return result.IsSuccess ? Ok(result) : BadRequest(result);
     }
+    [HttpPut("UpdateStatus")]
+    public async Task<IActionResult> Update([FromBody] UpdateBarterRequestStatusRequest request)
+    {
+        var result = await _sender.Send(request);
+        return result.IsSuccess ? Ok(result) : BadRequest(result);
+    }
+
     [HttpDelete("{id}")]
     public async Task<IActionResult> Delete(int id, int deletedBy)
     {

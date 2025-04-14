@@ -27,6 +27,7 @@ public class MappingProfile : Profile
         //BarterRequest
         CreateMap<CreateBarterRequestRequest, BarterRequest>();
         CreateMap<BarterRequest, CreateBarterRequestResponse>();
+        CreateMap<BarterRequest, UpdateBarterRequestStatusResponse>();
         //Notification
         CreateMap<Notification, GetAllNotificationsResponse>();
         CreateMap<Notification, GetByIdNotificationResponse>();
